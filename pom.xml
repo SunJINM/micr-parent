@@ -18,6 +18,7 @@
 
     <modules>
         <module>../micr-api</module>
+        <module>../micr-dataservice</module>
     </modules>
 
     <properties>
